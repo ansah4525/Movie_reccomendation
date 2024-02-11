@@ -1,2 +1,2 @@
 # Movie_reccomendation
-Recommends movies
+This project entails the development and deployment of a movie recommender system utilizing content-based filtering techniques. Leveraging the TMDB dataset, relevant tags were extracted through meticulous data preprocessing, ensuring the system's accuracy and relevance. The process involved vectorizing the data to enable efficient computation. The main functionality, allows users to input a movie and receive recommendations of similar films. The whole project was deployed using pycharm and streamlit.
